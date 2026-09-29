@@ -1,0 +1,6 @@
+{
+  "name": "Kvota 2: Tri Heroja i Spasitelj",
+  "description": "Profesionalna aplikacija za vođenje sistema kvote 2.0 sa 3 nezavisna heroja i specijalnim Herojem za izvlačenje (Rescue algoritam).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
